@@ -1,1 +1,3 @@
 The most important function of the operating system to me is its ability to use drivers to interface with other hardware.  Drivers are typically stored as firmware on a device that can be read by the OS when it is connected to tell the OS how to use said device. This is called Plug and Play, and in the event it fails you can typically search for the proper driver on the internet.
+
+Beyond the funtion of interfacing with other hardware via drivers a second significant function of an Operating System is the Graphical User Interface (GUI).  Largely the default for modern operating systems, a GUI allows you to control a pointer or use a touch screen to interact with images to execute functions.
